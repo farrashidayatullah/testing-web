@@ -1,0 +1,91 @@
+/* Latest Project*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.Latest-Project{
+background-color: #193549;
+display: flex;
+align-items: center;
+}
+
+
+.Latest-Project .box-Latest-Project{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.Latest-Project .container .box-image img{
+    border-radius: 75px;
+    justify-content: left;
+    display: flex;
+    width: 204px;
+    height: 250px; 
+    padding: 40px;
+    
+}
+
+.container h1{
+   padding: 40px;
+   color: #FFC600;
+}
+
+
+.box p{
+    line-height: 2;
+    text-align: left;
+    padding-bottom: 10px;
+    color: white;
+    
+}
+
+.box button{
+    background-color: #FFC600;
+    border: 0.7rem solid #FFC600;
+    border-radius: 20px;
+    
+
+
+}
+
+/* 2 */
+.Latest-Project .box-Latest-Project2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.Latest-Project .container .box-image2 img{
+    border-radius: 75px;
+    justify-content: left;
+    display: flex;
+    width: 204px;
+    height: 250px; 
+    padding: 40px;
+    
+}
+
+
+
+
+
+.box2 p{
+    line-height: 2;
+    text-align: right;
+    padding-bottom: 10px;
+    color: white;
+    
+}
+
+.box2 button{
+    background-color: #FFC600;
+    border: 0.7rem solid #FFC600;
+    border-radius: 20px;
+    float: right;
+    
+
+
+}
